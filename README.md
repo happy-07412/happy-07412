@@ -1,6 +1,6 @@
 # Hey, I'm Happy Kumari! 👋
 
-### 💻 BCA Student | Python Developer | Aspiring Tech Professional
+### 💻 BCA Student  | Aspiring Tech Professional
 
 **Learning. Living. Leveling Up.** 🚀
 
